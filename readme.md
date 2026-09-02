@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ananya%20Kumari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Java%20Developer&descAlignY=55&descSize=19&descColor=d7d7ff" width="100%" alt="Ananya Kumari header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20(AI)%20%7C%20AI%20Enthusiast%20%7C%20Java%20Developer&descAlignY=55&descSize=19&descColor=d7d7ff" width="100%" alt="Aditya Raj header"/>
 
-<a href="https://github.com/Ananya-Kumari-123">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=8A7FFF&center=true&vCenter=true&width=650&lines=Building+practical+full-stack+applications;Java+%7C+React+%7C+SQL+%7C+REST+APIs;Exploring+AI%2FML+and+real-world+software" alt="Typing SVG"/>
+<a href="https://github.com/adityaraj-projects">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=8A7FFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+%26+full-stack+applications;Java+%7C+Python+%7C+React+%7C+Generative+AI;Turning+ideas+into+working+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ananya-Kumari-123&label=Profile%20Views&color=8a7fff&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Ananya-Kumari-123?label=Followers&style=for-the-badge&color=8a7fff" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/MCA-2025--2027-8a7fff?style=for-the-badge" alt="MCA 2025-2027"/>
+<img src="https://komarev.com/ghpvc/?username=adityaraj-projects&label=Profile%20Views&color=8a7fff&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/adityaraj-projects?label=Followers&style=for-the-badge&color=8a7fff" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/MCA%20(AI)-2025--2027-8a7fff?style=for-the-badge" alt="MCA AI 2025-2027"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/>
 
 <br/><br/>
@@ -19,8 +19,10 @@
 <a href="#-current-focus">Focus</a> •
 <a href="#-tech-stack">Tech Stack</a> •
 <a href="#-featured-projects">Projects</a> •
+<a href="#-other-notable-repositories">More Repos</a> •
 <a href="#-github-activity">Activity</a> •
 <a href="#-certifications">Certifications</a> •
+<a href="#-teaching--achievements">Teaching</a> •
 <a href="#-lets-connect">Connect</a>
 
 </div>
@@ -29,43 +31,34 @@
 
 ## 🧭 About Me
 
-I'm an **MCA student and aspiring Full-Stack & Java Developer** focused on turning computer science fundamentals into practical, real-world software.
+```javascript
+const adityaRaj = {
+  title: "MCA Student (Artificial Intelligence) & Java Developer",
+  currentlyStudying: "Master of Computer Applications (AI), Parul University, Vadodara",
+  background: "BCA graduate, now specializing in AI/ML and Full-Stack Development",
+  languages: ["Java", "Python", "PHP", "SQL", "C"],
+  interests: ["Generative AI", "NLP", "Full-Stack Development", "Java Backend Systems"],
+  currentFocus: [
+    "Building AI-powered applications (resume analysis, voice assistants, classifiers)",
+    "Strengthening full-stack architecture with React, Firebase & Supabase",
+    "Applying Prompt Engineering & NLP to practical, real-world tools"
+  ],
+  funFact: "Has taught Java & Computer Science to school students for 3+ years"
+};
+```
 
-I enjoy building applications across the stack — from responsive interfaces and REST APIs to database design, authentication, and backend systems. My current learning journey is centered on strengthening **Java, DSA, DBMS, Operating Systems, Computer Networks, SQL, and modern full-stack development**, while exploring practical applications of **AI/ML**.
-
-I believe in learning by building, understanding systems end-to-end, and continuously raising the bar on the quality of the software I ship.
-
-<table>
-<tr>
-<td>🎓</td><td><b>Pursuing</b> — Master of Computer Applications (MCA)</td>
-</tr>
-<tr>
-<td>🏫</td><td><b>Institute</b> — Kashi Institute Of Technology, Varanasi</td>
-</tr>
-<tr>
-<td>💻</td><td><b>Interested in</b> — Java, Full-Stack Development & Backend Engineering</td>
-</tr>
-<tr>
-<td>🧠</td><td><b>Strengthening</b> — DSA, DBMS, OS & Computer Networks</td>
-</tr>
-<tr>
-<td>🤖</td><td><b>Exploring</b> — Machine Learning & NLP fundamentals</td>
-</tr>
-<tr>
-<td>🚀</td><td><b>Approach</b> — Building practical projects to sharpen real-world development skills</td>
-</tr>
-</table>
+I'm an MCA (Artificial Intelligence) student who enjoys building software that actually *does something intelligent* — from AI resume analyzers to voice assistants to classification systems — while staying grounded in solid Java and full-stack fundamentals. I like projects that combine practical engineering with applied AI, and I care about shipping things that work end-to-end, not just demos.
 
 <br/>
 
 ## 🎯 Current Focus
 
-- 🛠️ Building full-stack applications with modern frontend and backend technologies
-- ☕ Strengthening **Core Java, JDBC, OOP, Multithreading & Socket Programming**
-- 🌐 Developing applications using **React, REST APIs and SQL databases**
-- 🗄️ Improving database design and backend security concepts
-- 🧠 Practicing **DSA** and core Computer Science fundamentals
-- 🤖 Exploring how **AI/ML capabilities** can be integrated into real applications
+- 🤖 Building Generative AI & NLP-powered applications (resume analysis, voice assistants, classifiers)
+- ☕ Strengthening **Core Java, JDBC, JavaFX, Socket Programming & Multithreading**
+- 🌐 Developing full-stack platforms with **React, Firebase & Supabase**
+- 🧠 Practicing **DSA, DBMS, Operating Systems & Computer Networks**
+- 🗣️ Exploring **Prompt Engineering** as a practical AI-development skill
+- 👩‍🏫 Teaching Java, Python & problem-solving to school-level students
 
 <br/>
 
@@ -79,27 +72,28 @@ I believe in learning by building, understanding systems end-to-end, and continu
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-**🌐 Frontend**
+**🌐 Web & Frontend**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
 <td valign="top" width="33%">
 
-**☕ Java & Backend**
+**☕ Java Technologies**
 
 <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Swing-ED8B00?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/Socket%20Programming-007396?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Multithreading-007396?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multithreading-007396?style=flat-square"/>
 
 </td>
 <td valign="top" width="33%">
@@ -107,10 +101,10 @@ I believe in learning by building, understanding systems end-to-end, and continu
 **🗄️ Databases & Backend Services**
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Realtime%20Database-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 </td>
 </tr>
@@ -120,7 +114,9 @@ I believe in learning by building, understanding systems end-to-end, and continu
 **🤖 AI / Machine Learning**
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Fundamentals-8A7FFF?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/NLP-Fundamentals-8A7FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8A7FFF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A7FFF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A7FFF?style=flat-square"/>
 
 </td>
 <td valign="top" width="33%">
@@ -130,7 +126,8 @@ I believe in learning by building, understanding systems end-to-end, and continu
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
 <td valign="top" width="33%">
@@ -141,7 +138,7 @@ I believe in learning by building, understanding systems end-to-end, and continu
 <img src="https://img.shields.io/badge/DBMS-000000?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/Computer%20Networks-000000?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/OOP-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-000000?style=flat-square"/>
 
 </td>
 </tr>
@@ -155,45 +152,98 @@ I believe in learning by building, understanding systems end-to-end, and continu
 <tr>
 <td width="50%" valign="top">
 
-### 🍛 Kashiya
-**AI-Powered Cultural Discovery Platform**
+### 📄 AI Resume Analyzer
+**AI-Powered Resume Scoring & Feedback Tool**
 
-A full-stack food and cultural discovery platform built around the heritage, food, stories, and experiences of Varanasi.
+Parses resumes, matches them against job descriptions and ATS criteria, and generates a personalized score.
 
 **Highlights**
-- 🔐 Authentication and user management
-- 📍 Location-based cultural and food content
-- 🧭 Vendor and experience discovery
-- ⚙️ REST-based backend architecture
-- 🗄️ Supabase / PostgreSQL data layer with row-level security
-- 🎨 Modern, glassmorphism-inspired responsive UI
+- 🧠 AI-driven recommendations to boost interview selection chances
+- 📊 Interactive dashboard for upload, analysis & detailed report generation
+- 🎯 Keyword-matching against real JD/ATS criteria
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-8A7FFF?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-8A7FFF?style=flat-square"/>
 
-<a href="https://github.com/Ananya-Kumari-123/kashiya">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Kashiya repository"/>
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ EVA AI
+**Intelligent Personal Assistant**
+
+A wake-word–activated voice assistant with a sci-fi HUD interface and deep Windows system integration.
+
+**Highlights**
+- 🗣️ Context-aware conversational AI with reminders & info retrieval
+- ⚙️ Task automation built on a modular architecture
+- 🔌 Designed for seamless addition of new voice commands & external APIs
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-8A7FFF?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-8A7FFF?style=flat-square"/> <img src="https://img.shields.io/badge/Automation-8A7FFF?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍛 The Taste of Kashi
+**Culture Discovery Platform**
+
+A full-stack food & cultural discovery platform for Varanasi with a glassmorphism dark UI.
+
+**Highlights**
+- 🔐 JWT authentication, vendor listings & user dashboard
+- 📍 Cultural stories and real location photos
+- ⚙️ FastAPI + Supabase backend with REST API routing & row-level security
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase%2FSupabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX%20Design-8A7FFF?style=flat-square"/>
+
+<a href="https://github.com/adityaraj-projects/The-Tast-Of-Kashi">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="The Taste of Kashi repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Chat Sphere
+### 💬 ChatSphere
 **Real-Time Java Chat Application**
 
-A client-server chat application demonstrating networking, concurrency, database persistence, and real-time communication in Java.
+A client-server chat application with private messaging, online status tracking, and file-sharing features.
 
 **Highlights**
-- 🧵 Multi-threaded server architecture
-- 📡 TCP socket-based communication
-- 👥 Private messaging & online status tracking
-- 🗄️ JDBC + MySQL persistence for users and history
-- 🔐 User authentication and management
-- 📁 File-sharing functionality
+- 🧵 Multi-threaded server architecture handling concurrent TCP connections
+- 🗄️ JDBC + MySQL for persistent user management, auth & message history
+- 🖥️ JavaFX-based client interface
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Socket%20Programming-007396?style=flat-square"/> <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square"/> <img src="https://img.shields.io/badge/Socket%20Programming-007396?style=flat-square"/> <img src="https://img.shields.io/badge/JDBC%20%2B%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<a href="https://github.com/Ananya-Kumari-123/chat-sphere">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Chat Sphere repository"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📂 Other Notable Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Sketch2Code_AI**
+AI-powered flowchart recognition and code generation platform. Converts hand-drawn sketches to flowcharts and generates executable code.
+`React` `FastAPI` `PostgreSQL` `Google OAuth` `AI`
+
+<a href="https://github.com/adityaraj-projects/Sketch2Code_AI">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 PlacementOS_Pro**
+AI-powered personal placement & career management platform with a DSA Tracker, AI Mentor, Journal, and Analytics.
+`JavaScript` `Supabase` `AI Mentor`
+
+<a href="https://github.com/adityaraj-projects/PlacementOS_Pro">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -201,41 +251,43 @@ A client-server chat application demonstrating networking, concurrency, database
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Placement OS Pro
-**Placement & Study Management Platform**
+**📉 Customer_Churn_Prediction_System**
+Machine Learning project to predict customer churn using classification algorithms and data analysis.
+`Python` `Machine Learning` `MIT License`
 
-A full-stack platform designed to organize placement preparation — study planning, tasks, goals, and DSA practice — in one place.
-
-**Highlights**
-- 📚 Study and task management
-- 🎯 Goal and placement-readiness tracking
-- 🤖 AI Mentor & interview-preparation modules
-- 📊 Gamification and admin analytics dashboard
-- 🔐 Authentication and secure data access
-- 🗄️ PostgreSQL-backed architecture with RLS
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
-
-<a href="https://github.com/Ananya-Kumari-123/placement-os-pro">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Placement OS Pro repository"/>
+<a href="https://github.com/adityaraj-projects/Customer_Churn_Prediction_System">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔨 More Projects Coming Soon
+**📧 Spam_Email_Classifier**
+AI-powered spam email classifier built using Machine Learning, NLP, and Streamlit.
+`Python` `NLP` `MIT License`
 
-I'm continuously building and experimenting with new software projects across:
+<a href="https://github.com/adityaraj-projects/Spam_Email_Classifier">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-- ☕ Java & backend development
-- 🌐 Full-stack web applications
-- 🗄️ Database-driven systems
-- 🤖 AI/ML integrations
-- 🧠 Core Computer Science concepts
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-More projects will be pinned here as they reach a meaningful level of completion and documentation.
+**🎮 Trade-Empire**
+A business simulation game playable online.
+`TypeScript`
 
-<img src="https://img.shields.io/badge/Status-In%20Progress-8a7fff?style=flat-square"/>
+<a href="https://github.com/adityaraj-projects/Trade-Empire">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🔨 More Repositories**
+Additional experiments and coursework projects are continuously added — check the repositories tab for the full list.
 
 </td>
 </tr>
@@ -247,18 +299,18 @@ More projects will be pinned here as they reach a meaningful level of completion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ananya-Kumari-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Ananya's GitHub statistics"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Kumari-123&theme=tokyonight&hide_border=true" width="49%" alt="Ananya's GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj-projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Aditya's GitHub statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj-projects&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's GitHub streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Kumari-123&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ananya's most used languages"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ananya-Kumari-123&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj-projects&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's most used languages"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Ananya-Kumari-123/Ananya-Kumari-123/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adityaraj-projects&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/adityaraj-projects/adityaraj-projects/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
 
 </div>
 
@@ -266,9 +318,19 @@ More projects will be pinned here as they reach a meaningful level of completion
 
 ## 📜 Certifications
 
-- **Introduction to Modern AI** — Cisco Networking Academy, 2025
-- **Introduction to Cybersecurity** — Cisco Networking Academy, 2025
-- **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy, 2025
+- **Advanced Diploma in Computer Applications (ADCA)** — A++ Grade (94.9%)
+- **Diploma in Computer Applications (DCA)** — 75.5%
+- **Java Training** — EduPyramids, SINE IIT Bombay (Score: 80%)
+- **Introduction to Modern AI** — Cisco Networking Academy
+- **Digital Productivity with AI** — UNICEF YuWaah (Score: 100%)
+
+<br/>
+
+## 🎓 Teaching & Achievements
+
+- 👨‍🏫 Taught Java & Computer Science to ICSE students (Grades 7–10) for **3+ years** at a coaching institute
+- 🐍 Trained CBSE Grade 11 students in Python programming & problem-solving techniques
+- 🧠 Mentored students in DSA, logical reasoning, and end-to-end project development
 
 <br/>
 
@@ -276,13 +338,13 @@ More projects will be pinned here as they reach a meaningful level of completion
 
 <div align="center">
 
-<a href="mailto:ananyakumari1105@gmail.com">
+<a href="mailto:hackeraddi2003@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/ananyakumari1105">
+<a href="https://www.linkedin.com/in/adityaraj2807">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Ananya-Kumari-123">
+<a href="https://github.com/adityaraj-projects">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -292,7 +354,7 @@ More projects will be pinned here as they reach a meaningful level of completion
 
 <div align="center">
 
-**"Build. Learn. Understand. Improve."**
+**"Learn fast. Build smart. Ship real things."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
 
